@@ -56,5 +56,5 @@ console.log("Pributok " + pributok.toFixed(2));
 //////////////ADVENSE/////////////////////
 
 
-console.log("Максимальне число: "+ Math.max(apple, plam, melon)+"\t" + "Мінімальне число: "+ Math.min(apple, plam, melon)+"\t" + "Вартість всіх товарів: " + frut +"\t"  + "Ціла частина вартості: "+ fruts_new +"\t"+ "Округлення до сотень:"+MyRound(fruts_new) +"\t" +"Булеве значення чи парна сума товарів: "+ Bul(fruts_new) +"\t"+ "Сума решти при оплаті 500 грн: "+suma_reshti + "\t" + "Середнє значення цін округлене: "+serdne.toFixed(2) + " \t" +"Знижка:" +sail_$ + "\t" + "Сума до сплати: " +oplata.toFixed(2) + "\t" +"Чистий прибуток: "+pributok.toFixed(2) );
+console.log("Максимальне число: "+ Math.max(apple, plam, melon)+"\t" + "Мінімальне число: "+ Math.min(apple, plam, melon)+"\t" + "Вартість всіх товарів: " + frut +"\t"  + "Ціла частина вартості: "+ fruts_new +"\t"+ "Округлення до сотень:"+MyRound(fruts_new) +"\t" +"Булеве значення чи парна сума товарів: "+ Bul(fruts_new) +"\t"+ "Сума решти при оплаті 500 грн: "+suma_reshti + "\t" + "Середнє значення цін округлене: "+serdne.toFixed(2) + " \t" +"Знижка:" + sail + "\t" + "Сума до сплати: " +oplata.toFixed(2) + "\t" +"Чистий прибуток: "+pributok.toFixed(2) );
 
